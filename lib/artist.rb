@@ -13,5 +13,3 @@ class Artist
   
 end 
 
-hotline_bling.artist_name = "Drake"
-hotline_bling.artist 
